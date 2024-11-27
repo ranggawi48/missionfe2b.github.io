@@ -30,7 +30,7 @@ const Navbar = () => {
           />
         </a>
         <NavbarNav />
-        <div className="flex items-center relative right-16 md:right-0 md:ml-auto">
+        <div className="flex items-center relative right-10 md:right-0 md:ml-auto">
           <img
             src={profileImage}
             alt="User"
