@@ -34,7 +34,7 @@ const Navbar = () => {
           <img
             src={profileImage}
             alt="User"
-            className="w-7 h-7 md:w-12 md:h-12 rounded-full cursor-pointer z-[1001]"
+            className="w-7 h-7 md:w-12 md:h-12 rounded-full object-cover cursor-pointer z-[1001]"
             onClick={toggleMenu}
           />
           <div
